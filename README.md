@@ -7,3 +7,5 @@ Dzięki podłączeniu do układu modułu mikrofonu, 8 diod LED świeci w rytm mu
 * 8 rezystorów 220ohm
 * płytka arduino
 * moduł mikrofonu (można zrobić samemu, ale popsuł się wzmacniacz)
+* sporo przewodów
+* płytka prototypowa
