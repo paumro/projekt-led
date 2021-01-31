@@ -10,3 +10,7 @@ Dzięki podłączeniu do układu modułu mikrofonu, 8 diod LED świeci w rytm mu
 * sporo przewodów
 * płytka prototypowa
 
+# KOD
+>
+>
+>
