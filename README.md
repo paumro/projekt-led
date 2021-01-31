@@ -9,4 +9,4 @@ Dzięki podłączeniu do układu modułu mikrofonu, 8 diod LED świeci w rytm mu
 * moduł mikrofonu (można zrobić samemu, ale popsuł się wzmacniacz)
 * sporo przewodów
 * płytka prototypowa
-![zdjęcie układu](.C:\Users\paula\OneDrive\Pulpit)
+
